@@ -1,0 +1,26 @@
+<annotation>
+	<folder>23290</folder>
+	<filename>23290_C001H002S0002001401.jpg</filename>
+	<path>D:\james\labelImg\data\23290\23290_C001H002S0002001401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>23290</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>261</ymin>
+			<xmax>197</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

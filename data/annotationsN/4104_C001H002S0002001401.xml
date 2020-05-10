@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4104</folder>
+	<filename>4104_C001H002S0002001401.jpg</filename>
+	<path>D:\james\labelImg\data\4104\4104_C001H002S0002001401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4104</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>289</ymin>
+			<xmax>177</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

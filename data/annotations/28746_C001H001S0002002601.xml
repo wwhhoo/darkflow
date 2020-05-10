@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>28746_C001H001S0002002601.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\28746_C001H001S0002002601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>28746</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>311</ymin>
+			<xmax>258</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

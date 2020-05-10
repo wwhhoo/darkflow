@@ -1,0 +1,26 @@
+<annotation>
+	<folder>24186</folder>
+	<filename>24186_C001H002S0002001801.jpg</filename>
+	<path>D:\james\labelImg\data\24186\24186_C001H002S0002001801.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>24186</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>266</ymin>
+			<xmax>225</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

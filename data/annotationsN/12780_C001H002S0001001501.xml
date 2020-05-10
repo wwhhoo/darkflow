@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12780</folder>
+	<filename>12780_C001H002S0001001501.jpg</filename>
+	<path>D:\james\labelImg\data\12780\12780_C001H002S0001001501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>12780</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>267</ymin>
+			<xmax>214</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

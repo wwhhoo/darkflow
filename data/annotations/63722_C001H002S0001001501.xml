@@ -1,0 +1,26 @@
+<annotation>
+	<folder>63722</folder>
+	<filename>63722_C001H002S0001001501.jpg</filename>
+	<path>D:\james\labelImg\data\63722\63722_C001H002S0001001501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>63722</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>267</ymin>
+			<xmax>132</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

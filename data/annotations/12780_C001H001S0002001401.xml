@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>12780_C001H001S0002001401.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\12780_C001H001S0002001401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>12780</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>339</ymin>
+			<xmax>235</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

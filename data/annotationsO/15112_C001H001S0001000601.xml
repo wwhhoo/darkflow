@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>15112_C001H001S0001000601.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\15112_C001H001S0001000601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>15112</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>315</ymin>
+			<xmax>209</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

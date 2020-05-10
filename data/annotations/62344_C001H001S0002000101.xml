@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>62344_C001H001S0002000101.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\62344_C001H001S0002000101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>62344</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>273</ymin>
+			<xmax>298</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

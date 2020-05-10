@@ -1,0 +1,26 @@
+<annotation>
+	<folder>13256</folder>
+	<filename>13256_C001H002S00020000801.jpg</filename>
+	<path>D:\james\labelImg\data\13256\13256_C001H002S00020000801.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>13256</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>272</ymin>
+			<xmax>162</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

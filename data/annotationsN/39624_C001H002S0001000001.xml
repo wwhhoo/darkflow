@@ -1,0 +1,26 @@
+<annotation>
+	<folder>39624</folder>
+	<filename>39624_C001H002S0001000001.jpg</filename>
+	<path>D:\james\labelImg\data\39624\39624_C001H002S0001000001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>39624</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>254</ymin>
+			<xmax>199</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

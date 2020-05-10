@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>55711_C001H001S0002001501.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\55711_C001H001S0002001501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>55711</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>348</ymin>
+			<xmax>134</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

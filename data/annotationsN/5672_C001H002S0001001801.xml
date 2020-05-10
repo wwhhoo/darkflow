@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5672</folder>
+	<filename>5672_C001H002S0001001801.jpg</filename>
+	<path>D:\james\labelImg\data\5672\5672_C001H002S0001001801.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5672</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>264</ymin>
+			<xmax>227</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

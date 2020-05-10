@@ -1,0 +1,26 @@
+<annotation>
+	<folder>62170</folder>
+	<filename>62170_C001H002S0001001401.jpg</filename>
+	<path>D:\james\labelImg\data\62170\62170_C001H002S0001001401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>62170</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>265</ymin>
+			<xmax>203</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>40143_C001H001S0002001901.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\40143_C001H001S0002001901.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40143</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>352</ymin>
+			<xmax>305</xmax>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+</annotation>

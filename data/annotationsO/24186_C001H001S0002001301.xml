@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>24186_C001H001S0002001301.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\24186_C001H001S0002001301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>24186</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>339</ymin>
+			<xmax>226</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

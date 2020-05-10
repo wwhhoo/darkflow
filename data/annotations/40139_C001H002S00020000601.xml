@@ -1,0 +1,26 @@
+<annotation>
+	<folder>40139</folder>
+	<filename>40139_C001H002S00020000601.jpg</filename>
+	<path>D:\james\labelImg\data\40139\40139_C001H002S00020000601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>40139</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>271</ymin>
+			<xmax>195</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

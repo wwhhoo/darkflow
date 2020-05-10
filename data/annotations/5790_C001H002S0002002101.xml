@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5790</folder>
+	<filename>5790_C001H002S0002002101.jpg</filename>
+	<path>D:\james\labelImg\data\5790\5790_C001H002S0002002101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5790</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>264</ymin>
+			<xmax>186</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

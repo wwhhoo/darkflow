@@ -1,0 +1,26 @@
+<annotation>
+	<folder>7007</folder>
+	<filename>7007_C001H002S00020000501.jpg</filename>
+	<path>D:\james\labelImg\data\7007\7007_C001H002S00020000501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>7007</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>275</ymin>
+			<xmax>176</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>55566</folder>
+	<filename>55566_C001H002S0001001601.jpg</filename>
+	<path>D:\james\labelImg\data\55566\55566_C001H002S0001001601.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>55566</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>264</ymin>
+			<xmax>155</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

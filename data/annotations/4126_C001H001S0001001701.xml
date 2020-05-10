@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>4126_C001H001S0001001701.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\4126_C001H001S0001001701.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4126</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>345</ymin>
+			<xmax>192</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

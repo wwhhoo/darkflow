@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>56283_C001H001S0002000301.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\56283_C001H001S0002000301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>56283</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>286</ymin>
+			<xmax>224</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

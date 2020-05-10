@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ALL</folder>
+	<filename>12541_C001H001S0002002301.jpg</filename>
+	<path>D:\james\labelImg-master\data\ALL\12541_C001H001S0002002301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>12541</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>336</ymin>
+			<xmax>395</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>
